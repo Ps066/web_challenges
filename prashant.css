@@ -1,0 +1,133 @@
+
+
+				
+				
+
+
+.header{
+	background-color:rgb(3, 190, 113);
+	height:60px;
+	padding:10px;
+	
+				
+				
+}
+.header-logo {
+	float: left;
+	font-size: 36px;
+	padding: 20px 40px;
+	color:white;
+  }
+.header li{
+	float:left;
+	padding:10px 20px 10px 20px;
+	margin-bottom:5px;
+	list-style:none;
+	color:#FFFFFF;
+				
+}
+.mainbody{
+	padding-top:50px;
+	background-image: linear-gradient(#399cbd,white);
+	height:1000px;
+}
+.mainbody li{
+	list-style:none;
+	font-size:20px;
+	margin:10px 10px;
+	color:rgb(36, 37, 37);
+	font-family:"Comic Sans Ms";
+	position: relative;
+	width:200px;
+	height:200px;
+	right:-5%;
+	
+}
+.mainbody img{
+	position: relative;
+	top:-250px;
+	left:-10%;
+}
+.mainbody h1{
+	font-size:50px;
+	position:relative;
+}
+
+.contact-form {
+	padding-top: 100px;
+  }
+  
+  /* Add CSS for <input> and <textarea> tags */
+  input, textarea {
+	width: 400px;
+	margin: 10px 10px 30px 10px;
+	
+	padding: 20px;
+	font-size: 18px;
+	border: 1px solid #dee7ec;
+  }
+  
+  /* Add CSS for contact-submit */
+  .contact-submit {
+	background-color: #dee7ec;
+	color: #889eab;
+  }
+  .footer {
+	background-color: #1dbe8e;
+	color: #fff;
+	height: 120px;
+	padding: 40px;
+  }
+  
+  .footer-logo {
+	float: left;
+	font-size: 32px;
+  }
+  
+  .footer-list {
+	float: right;
+  }
+  
+  .footer-list li {
+	padding-bottom: 20px;
+  }.btn-wrapper {
+	margin: 20px 0;
+  }
+  
+  .btn-wrapper p {
+	margin: 10px 0;
+  }
+  
+  .signup {
+	background-color: #239b76;
+  }
+  
+  .facebook {
+	background-color: #3b5998;
+	margin-right: 10px;
+  }
+  
+  .twitter {
+	background-color: #55acee;
+  }
+  
+  .btn {
+	padding: 12px 24px;
+	color: white;
+	display: inline-block;
+	opacity: 0.8;
+	border-radius: 4px;
+	
+  }
+  
+  .btn:hover {
+	opacity: 1;
+  }
+  
+  .fa {
+	margin-right: 5px;
+  }
+  .headerbtn{
+	  position: relative;
+	  top:-60%;
+  }
